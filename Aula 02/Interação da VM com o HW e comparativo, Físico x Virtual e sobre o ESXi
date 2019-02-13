@@ -1,0 +1,30 @@
+# Interação da VM com o HW e comparativo, Físico x Virtual e sobre o ESXi
+
+
+ESxi é o sistema operacional da VMware 
+
+A camada de virtualização é quem faz o contato com aos recursos 
+
+vSphere é o sistema operacional 
+
+Virtual switch (up link)
+VMFS (datastore): Sistema de arquivos otimizado para virtualização
+
+
+datastore (VMware vSphere VMFS or NFS)
+
+vCenter Server é o produto da VMware
+
+Web client
+vSphere client
+vCenter
+putty
+
+
+ESxi
+
+É um sistema operacional que tem base kernel em Linux, que é instalado em cada servidor físico 
+
+RAID 1 ou RAID5 
+
+
