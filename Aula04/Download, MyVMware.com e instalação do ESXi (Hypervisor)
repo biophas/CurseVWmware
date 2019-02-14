@@ -1,0 +1,14 @@
+# Download, MyVMware.com e instalação do ESXi (Hypervisor)
+
+
+Tips: 
+
+Hardware HP|Dell|IBM
+
+Consultar o fabricante se existe uma mídia com as configurações pré-definidas, é importante verificar
+a versão do firmware para atualização. 
+
+
+NIC: É recomendado no mínimo duas placas de rede para redundâncias  
+
+
