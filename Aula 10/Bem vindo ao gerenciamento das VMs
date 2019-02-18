@@ -1,0 +1,15 @@
+# Bem vindo ao gerenciamento das VMs
+
+
+1. Thick Eager = +Performance já
+2. Thick lazy = +Peformance 
+3. Thin = Melhor uso do espaço 
+
+
+Sysprep
+
+VMware KB 1005593 
+
+# Local onde precisa salvar os arquivos do Sysprep
+
+C:\ProgramData\VMware\VMwareVirtualCenter\sysprep
